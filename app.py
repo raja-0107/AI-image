@@ -4,7 +4,7 @@ from google.genai import types
 from PIL import Image
 from io import BytesIO
 
-myrobo= genai.Client(api_key="AIzaSyCqF-F8bfJMvIxj8DUcjJM1HVr-NMh6JJE")
+myrobo= genai.Client(api_key="#")
 col1,col2=st.columns(2)
 with col1:
     st.title("IMAGE CREATOR")
