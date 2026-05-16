@@ -6,7 +6,7 @@ from io import BytesIO
 import os
 
 # API KEY
-myrobo = genai.Client(api_key="YOUR_API_KEY")
+myrobo = genai.Client(api_key="AIzaSyB0LNa1wUKMlRtsxWimA3dPN1ax5TnAgSU")
 
 col1, col2 = st.columns(2)
 
